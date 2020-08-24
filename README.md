@@ -1,3 +1,17 @@
+###################################################################################################
+
+first configure firebase and add config data copy fro firebase to firebase.js in project
+
+
+node modules is not added 
+
+
+
+##################################################################################################
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
