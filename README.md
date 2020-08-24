@@ -3,6 +3,9 @@
 first configure firebase and add config data copy fro firebase to firebase.js in project
 
 
+REFER ::https://amzone-clone-65eae.web.app/
+
+
 node modules is not added 
 
 
